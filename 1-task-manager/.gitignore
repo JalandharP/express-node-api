@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Directory for npm and yarn modules
+**/node_modules
+**/node_modules/*
+**/yarn.lock
+
+# Ignore user-specific files
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.swp
